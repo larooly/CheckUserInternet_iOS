@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-TestReachability_cocoa-TestReachability_cocoaUITests/Pods-TestReachability_cocoa-TestReachability_cocoaUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
+${BUILT_PRODUCTS_DIR}/Socket.IO-Client-Swift/SocketIO.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework

@@ -1,0 +1,24 @@
+PODS:
+  - ReachabilitySwift (5.0.0)
+  - Socket.IO-Client-Swift (16.0.1):
+    - Starscream (~> 4.0)
+  - Starscream (4.0.4)
+
+DEPENDENCIES:
+  - ReachabilitySwift
+  - Socket.IO-Client-Swift
+
+SPEC REPOS:
+  trunk:
+    - ReachabilitySwift
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Socket.IO-Client-Swift: c116d6dc9fd6be9c259bacfe143f8725bce7d79e
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+
+PODFILE CHECKSUM: da04b90d8059aa15d9e51cabd3f8a587ebdacf3b
+
+COCOAPODS: 1.10.2

@@ -1,0 +1,6 @@
+framework module Pods_TestReachability_cocoa_TestReachability_cocoaUITests {
+  umbrella header "Pods-TestReachability_cocoa-TestReachability_cocoaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
