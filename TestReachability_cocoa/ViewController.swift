@@ -59,7 +59,7 @@ class ViewController: UIViewController {
     
     
     func testSocketIO(){
-        let manager = SocketManager(socketURL: URL(string: "211.119.65.7:32563")!, config: [.log(true), .compress])
+        let manager = SocketManager(socketURL: URL(string: "000.000.00.0:32563")!, config: [.log(true), .compress])
         let socket = manager.defaultSocket
 
         
